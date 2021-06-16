@@ -1,0 +1,37 @@
+body {
+ background-color: #BDBDBD;
+ 
+ 
+}
+
+
+
+#f {
+  width: 320px;
+  height: auto;
+  background-color: white;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 20px 15px 15px 15px;
+  border-radius: 10px;
+}
+
+
+
+#n, #_n {
+  background-color: white;
+  border: none;
+}
+
+
+
+#s {
+  color: white;
+  background-color: #0091EA;
+  border: none;
+  border-radius: 5px;
+  width: 200px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
